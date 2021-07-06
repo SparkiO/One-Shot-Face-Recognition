@@ -1,0 +1,7 @@
+glob3
+numpy
+opencv-python
+Pillow
+scikit-learn
+scipy
+tensorflow
